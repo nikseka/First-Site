@@ -8,6 +8,7 @@ body {
 hr{
   border-style: none;
   border-top: 7px dotted #EAF6F6;
+  margin-top: 10px;
   width: 6%;
 }
 
